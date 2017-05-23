@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">i Like Draw</string>
+
+    <string name="action_delete">Видалити</string>
+    <string name="action_undo">На крок назад</string>
+    <string name="action_save">Зберегти</string>
+
+    <string name="delete_drawing">Видалити малюнок</string>
+    <string name="new_drawing_warning">Ваш малюнок буде видалений, ви підтверджуєте видалення? </string>
+    <string name="action_redo">На крок вперед</string>
+</resources>
