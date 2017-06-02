@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">i Like Draw</string>
+
+    <string name="action_delete">Видалити</string>
+    <string name="action_save">Зберегти</string>
+
+    <string name="delete_drawing">Видалити малюнок</string>
+    <string name="new_drawing_warning">Ваш малюнок буде видалений, ви підтверджуєте видалення? </string>
+    <string name="save_drawing">Зберегти малюнок</string>
+    <string name="save_drawing_in_gallery">Зберегти малюнок в галереї?</string>
+    <string name="say_yes">Так</string>
+    <string name="say_cancel">Відмінити</string>
+    <string name="title_app">iLikeDraw -</string>
+
+    <string name="app_name_2">iLikeDraw App</string>
+    <string name="drawing_save_success">Малюнок успішно збережено!</string>
+    <string name="drawing_save_error">Сталася помилка збереження!</string>
+    <string name="print_image_error">Сталася помилка. Вибачте, але друк НЕ відбувся!</string>
+    <string name="action_print">Друкувати</string>
+    <string name="about_the_app">Про додаток</string>
+    <string name="about_lib">AboutLibraries</string>
+    <string name="app_full_name">i Like Draw</string>
+    <string name="app_description">Це дуже простий додаток для малювання!</string>
+    <string name="app">App</string>
+    <string name="image_format">.jpg</string>
+
+</resources>
